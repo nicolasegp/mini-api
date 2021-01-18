@@ -1,4 +1,4 @@
-# Mini API en PHP 
+# Mini API en PHP (Deprecated 😔)
 
 Pequeño Script para crear una API sencilla con rutas estructuradas con RegExp
 
